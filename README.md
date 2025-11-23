@@ -69,6 +69,8 @@
         <span>Tidur</span>
         <span>Root Hp</span>
         <span>Open Wrt</span>
+        <span>Custom Room Hp</span>
+        <span>Ganti Karnel Hp</span>
         <span>Web Development Masih Belajar</span>
     </div>
 </div>
