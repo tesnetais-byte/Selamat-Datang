@@ -74,6 +74,47 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" 
        alt="WhatsApp" width="30">
   Chat via WhatsApp
+<head>
+<meta charset="UTF-8">
+<title>Nama Bergerak</title>
+<style>
+    body {
+        background: #000;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+    }
+
+    .teks-animasi {
+        font-size: 50px;
+        font-weight: bold;
+        font-family: Arial, sans-serif;
+        animation: gerak 4s linear infinite, warna 3s infinite;
+    }
+
+    @keyframes gerak {
+        0% { transform: translateX(-200px); }
+        50% { transform: translateX(200px); }
+        100% { transform: translateX(-200px); }
+    }
+
+    @keyframes warna {
+        0% { color: #ff0055; }
+        25% { color: #ffea00; }
+        50% { color: #00ffcc; }
+        75% { color: #00a2ff; }
+        100% { color: #ff0055; }
+    }
+</style>
+</head>
+<body>
+
+<div class="teks-animasi">Siti Aisah 👨‍💻</div>
+
+</body>
+
 </a>
 <div class="section">
     <h2>Jasa yang Ditawarkan</h2>
