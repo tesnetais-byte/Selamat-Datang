@@ -67,6 +67,8 @@
     <div class="skills">
         <span>Gitar</span>
         <span>Tidur</span>
+        <span>Root Hp</span>
+        <span>Open Wrt</span>
         <span>Web Development Masih Belajar</span>
     </div>
 </div>
