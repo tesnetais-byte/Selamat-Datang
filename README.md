@@ -74,6 +74,9 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" 
        alt="WhatsApp" width="30">
   Chat via WhatsApp
+#Pemayaran Via Dana Di Sini SS bukti TF kirim 
+ Ke Whtsapp Saya 
+    <a href="dana://send?phone=082179883221">Kirim ke Dana 082179883221</a>
 
 </a>
 <div class="section">
