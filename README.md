@@ -55,7 +55,7 @@
     <h1>WAN STORE</h1>
     <p>Kouta  & Penyedia Akun Ssh Premium</p>
 </header><div class="container"><div class="section">
-    <h2>Data Diri</h2>
+    <h2>CONTACT SAYA</h2>
     <p><strong>Nama:</strong> DEDE WAWAN</p>
     <p><strong>Email:</strong>  abahsae4@gmail.com</p>
     <p><strong>Lokasi:</strong> [Lampung / Indonesia]</p>
@@ -66,7 +66,7 @@
     <h2>Keahlian</h2>
     <div class="skills">
         <span>Gitar</span>
-        <span>Seting Domain</span>
+        <span>Tidur</span>
         <span>Web Development Masih Belajar</span>
     </div>
 </div>
@@ -79,8 +79,8 @@
     <h2>Jasa yang Ditawarkan</h2>
     <ul class="services">
         <li>Tembak Kouta </li>
-        <li>SSH PREMIUM</li>
-        <li>Vmees </li>
+        <li>SSH PREMIUM 20k 30 day</li>
+        <li>Vmees 20k 30 day</li>
     </ul>
 </div>
 
