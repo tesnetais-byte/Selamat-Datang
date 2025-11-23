@@ -74,9 +74,26 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" 
        alt="WhatsApp" width="30">
   Chat via WhatsApp
-#Pemayaran Via Dana Di Sini SS bukti TF kirim 
- Ke Whtsapp Saya 
-    <a href="dana://send?phone=082179883221">Kirim ke Dana 082179883221</a>
+<a href="dana://sendmoney?phone=082179883221" class="btn-dana">Bayar via DANA</a>
+
+<style>
+.btn-dana {
+    display: inline-block;
+    background: #0ea5e9;
+    color: white;
+    padding: 14px 26px;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 10px;
+    text-decoration: none;
+    transition: 0.3s;
+    font-family: Arial, sans-serif;
+}
+
+.btn-dana:hover {
+    background: #0284c7;
+}
+</style>
 
 </a>
 <div class="section">
