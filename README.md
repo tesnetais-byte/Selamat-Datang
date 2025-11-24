@@ -81,7 +81,7 @@
 </head>
 <body>
     <h1>Bayar ! </h1>
-    <p <strong>082179883221</strong>.</p>
+    <strong>082179883221</strong>
     
     <!-- Link to open Dana app or link for payment -->
     <a href="dana://contact/082179883221" target="_blank">
