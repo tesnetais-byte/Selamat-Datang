@@ -73,6 +73,24 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" 
        alt="WhatsApp" width="30">
   Chat via WhatsApp
+    
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Direct Dana Payment</title>
+</head>
+<body>
+    <h1>Bayar ! </h1>
+    <p>Click the button below to open Dana and make a payment to the phone number: <strong>082179883221</strong>.</p>
+    
+    <!-- Link to open Dana app or link for payment -->
+    <a href="dana://contact/082179883221" target="_blank">
+        <button style="padding: 6px 6px; background-color: #0D74FF; color: white; border: none; border-radius: 5px; cursor: pointer;">
+            Pay via Dana
+        </button>
+    </a>
+</body>
+<ht
 </a>
 <div class="section">
     <h2>Jasa yang Ditawarkan</h2>
