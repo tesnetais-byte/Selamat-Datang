@@ -52,7 +52,52 @@
     </style>
 </head>
 <body><header>
+    <h1>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WAN STORE</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #222;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        h1 {
+            font-size: 20px;
+            font-weight: bold;
+            background: linear-gradient(45deg, #ff0077, #00b3ff, #00ff00, #ff8000);
+            background-size: 100% 100%;
+            animation: gradientAnimation 5s ease infinite, colorShift 3s ease-in-out infinite;
+            -webkit-background-clip: text;
+            color: transparent;
+        }
+        
+        @keyframes gradientAnimation {
+            0% { background-position: 0% 50%; }
+            50% { background-position: 100% 50%; }
+            100% { background-position: 0% 50%; }
+        }
+        
+        @keyframes colorShift {
+            0% { color: #ff0077; }
+            25% { color: #00b3ff; }
+            50% { color: #00ff00; }
+            75% { color: #ff8000; }
+            100% { color: #ff0077; }
+        }
+    </style>
+</head>
+<body>
     <h1>WAN STORE</h1>
+</body>
+
+</h1>
     <p>Kouta  & Penyedia Akun Ssh Premium</p>
 </header><div class="container"><div class="section">
     <h2>CONTACT SAYA</h2>
